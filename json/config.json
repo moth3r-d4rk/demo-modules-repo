@@ -7,10 +7,10 @@
   "repository": {
     "name": "Sanmer Magisk Repo (demo)",
     "metadata": {
-      "homepage": "https://demo-repo.sanmer.app"
+      "homepage": "https://rikkaapps.github.io"
     },
     "setting": {
-      "base_url": "https://demo-repo.sanmer.app",
+      "base_url": "https://rikkaapps.github.io",
       "keep_size": 6
     }
   },
